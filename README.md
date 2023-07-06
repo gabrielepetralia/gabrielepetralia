@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hello there! I'm Gabriele Petralia</h1>
+<h3 align="center">A Jr. Full Stack Web Developer from Italy</h3>
 
-<!--
-**gabrielepetralia/gabrielepetralia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me : **gabrielepetralia.dev@gmail.com**
 
-Here are some ideas to get you started:
+<h3 align="center">Languages and Technologies :</h3> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,mysql,php,laravel,vscode,github,git&perline=4" />
+</div>
+
+<h3 align="left">Connect with me :</h3>
+<a href="https://www.linkedin.com/in/gabriele-petralia/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="https://instagram.com/gabrielepetralia_">
+  <img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+---
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielepetralia&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabrielepetralia" /></p>
