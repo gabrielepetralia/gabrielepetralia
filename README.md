@@ -9,6 +9,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,vite,mysql,php,laravel,vscode,github,git,java,spring,postman&perline=4" />
 </div>
 
+<h3 align="center">Currently learning :</h3> 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,typescript,tailwind&perline=4" />
+</div>
+
 <h3 align="left">Connect with me :</h3>
 <a href="https://www.linkedin.com/in/gabriele-petralia/">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
