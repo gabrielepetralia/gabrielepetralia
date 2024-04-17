@@ -19,9 +19,6 @@
 <a href="https://www.linkedin.com/in/gabriele-petralia/">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="https://instagram.com/gabrielepetralia_">
-  <img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
 
 ---
 
