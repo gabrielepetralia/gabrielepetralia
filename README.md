@@ -4,10 +4,10 @@
 <h3 align="center">Connect with me :</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriele-petralia/" target="blank">
+  <a href="https://www.linkedin.com/in/gabriele-petralia/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielepetralia.dev@gmail.com" target="blank>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielepetralia.dev@gmail.com&su=" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </div>
