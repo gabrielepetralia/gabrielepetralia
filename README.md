@@ -6,7 +6,7 @@
 <h3 align="center">Languages and Technologies :</h3> 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,vite,mysql,php,laravel,vscode,github,git,java,spring,postman&perline=4" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,vue,mysql,php,laravel,git,java,spring&perline=4" />
 </div>
 
 <h3 align="center">Currently learning :</h3> 
