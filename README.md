@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/gabriele-petralia/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielepetralia.dev@gmail.com&su=" target="_blank">
+  <a href="mailto:gabrielepetralia.dev@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </div>
