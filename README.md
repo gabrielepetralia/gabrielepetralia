@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I'm Gabriele Petralia</h1>
 <h3 align="center">A Jr. Full Stack Web Developer from Italy</h3>
 
-<h3 align="center">Connect with me :</h3>
+<h3 align="center">Get in touch :</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriele-petralia/" target="_blank">
