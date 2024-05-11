@@ -3,12 +3,14 @@
 
 <h3 align="center">Connect with me :</h3>
 
-<a href="https://www.linkedin.com/in/gabriele-petralia/">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="mailto:gabrielepetralia.dev@gmail.com?subject=">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriele-petralia/" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielepetralia.dev@gmail.com" target="blank>
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+</div>
 
 <h3 align="center">Languages and Technologies :</h3> 
 
