@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Gabriele Petralia</h1>
-<h2 align="center">A Jr. Full Stack Developer from Italy</h2>
+<h3 align="center">A Jr. Full Stack Developer from Italy</h3>
 
 <h3 align="center">Get in touch :</h3>
 
