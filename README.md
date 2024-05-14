@@ -21,7 +21,7 @@
 <h3 align="center">Currently learning :</h3> 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,typescript,tailwind&perline=4" />
+  <img src="https://skillicons.dev/icons?i=threejs,react,blender,tailwind&perline=4" />
 </div>
 
 ---
